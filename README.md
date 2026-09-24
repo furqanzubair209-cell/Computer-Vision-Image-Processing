@@ -50,13 +50,10 @@ Computer Vision Assignment 1/
 │
 ├── Computer_Vision_Assignment_1.ipynb
 ├── computer_vision_assignment_1.py
-│
-├── images/
-│   ├── original_rgb.jpg
-│   ├── grayscale.jpg
-│   ├── gaussian_blur.jpg
-│   └── histogram_equalized.jpg
-│
+│── original_rgb.jpg
+│── grayscale.jpg
+│── gaussian_blur.jpg
+│── histogram_equalized.jpg
 ├── SU92-BSCSM-F24-20_Muhammad Furqan_Assignment 1.docx
 └── README.md
 ```
